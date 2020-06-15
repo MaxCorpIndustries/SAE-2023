@@ -1,3 +1,4 @@
 # Circuit Diagram:
 
-![alt text](EDS (Emergency Diagnostic System)/images/IMG_2012.JPG)
+![alt text](SAE-2020/EDS (Emergency Diagnostic System)/images/IMG_2012.JPG)
+
