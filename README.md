@@ -1,5 +1,5 @@
-# SAE-2020
-This repository contains documentation for the UNCA SAE team electronic subsystems such as the emergency diagnostic system, the gas pedal system, and others
+# SAE-2023
+This repo contains the work history for the UNCA FSAE team, competing in the 2023 competition year!
 
 
 ![alt text](preview_img.jpg)
